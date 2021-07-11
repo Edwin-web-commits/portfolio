@@ -26,7 +26,7 @@ function toggleMenu(){
     }else{
 
         menuBtn.classList.remove('close');
-        menu.classList.revome('show');
+        menu.classList.remove('show');
         menuBranding.classList.remove('show');
         menuNav.classList.remove('show');
  
