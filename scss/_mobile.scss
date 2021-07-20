@@ -2,6 +2,7 @@
 @include mediaXL{
 .projects{
     grid-template-columns: repeat(4, 1fr);
+    
 }
 }
 //Desktop &  Laptops
@@ -19,6 +20,7 @@
         .lg-heading{
             line-height: 1;
             margin-bottom: 1rem;
+           // font-size: 6rem; //new
         }
     }
 
@@ -78,7 +80,7 @@
     }
     .lg-heading{
         margin-top: 1rem;
-        font-size: 5rem;
+        font-size: 4rem;
     }
 }
 
